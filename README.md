@@ -20,7 +20,7 @@ I design and build software products and systems with a focus on practical archi
 ## 🛠️ Core Technologies
 
 * **Languages:** TypeScript, JavaScript, SQL, HTML5, CSS3
-* **Frontend:** Next.js (App Router), React, Tailwind CSS, Vite
+* **Frontend:** Next.js, React, Tailwind CSS, Vite
 * **Backend & Data:** Supabase (PostgreSQL), Firebase, Node.js
 * **Tooling & Architecture:** Progressive Web Apps (PWA), REST APIs, Git, Google GenAI / Genkit
 
